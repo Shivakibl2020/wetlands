@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Wetland_Na": "Wular Lake", "State": "Jammu and Kashmir", "Latitude": 34.29, "Longitude": 74.54, "Wetland_Ty": "Freshwater Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 74.54, 34.29 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Hokersar Wetland", "State": "Jammu and Kashmir", "Latitude": 34.1, "Longitude": 74.65, "Wetland_Ty": "Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 74.65, 34.1 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Renuka Wetland", "State": "Himachal Pradesh", "Latitude": 30.61, "Longitude": 77.46, "Wetland_Ty": "Freshwater Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 77.46, 30.61 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Chandra Tal", "State": "Himachal Pradesh", "Latitude": 32.48, "Longitude": 77.61, "Wetland_Ty": "High Altitude Lake", "Ramsar_Sta": "No" }, "geometry": { "type": "Point", "coordinates": [ 77.61, 32.48 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Sultanpur Wetland", "State": "Haryana", "Latitude": 28.46, "Longitude": 76.89, "Wetland_Ty": "Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 76.89, 28.46 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Kanjli Wetland", "State": "Punjab", "Latitude": 31.43, "Longitude": 75.38, "Wetland_Ty": "Freshwater Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 75.38, 31.43 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Keoladeo National Park", "State": "Rajasthan", "Latitude": 27.16, "Longitude": 77.52, "Wetland_Ty": "Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 77.52, 27.16 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Sambhar Salt Lake", "State": "Rajasthan", "Latitude": 26.91, "Longitude": 75.2, "Wetland_Ty": "Salt Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 75.2, 26.91 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Chilika Lake", "State": "Odisha", "Latitude": 19.72, "Longitude": 85.32, "Wetland_Ty": "Coastal Lagoon", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 85.32, 19.72 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Bhitarakanika Wetlands", "State": "Odisha", "Latitude": 20.71, "Longitude": 86.87, "Wetland_Ty": "Mangrove", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 86.87, 20.71 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Kanwar Taal", "State": "Bihar", "Latitude": 25.63, "Longitude": 86.09, "Wetland_Ty": "Freshwater Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 86.09, 25.63 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Sundarbans Wetlands", "State": "West Bengal", "Latitude": 21.95, "Longitude": 88.8, "Wetland_Ty": "Mangrove", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 88.8, 21.95 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "East Kolkata Wetlands", "State": "West Bengal", "Latitude": 22.55, "Longitude": 88.42, "Wetland_Ty": "Urban Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 88.42, 22.55 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Loktak Lake", "State": "Manipur", "Latitude": 24.55, "Longitude": 93.78, "Wetland_Ty": "Freshwater Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 93.78, 24.55 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Deepor Beel", "State": "Assam", "Latitude": 26.12, "Longitude": 91.66, "Wetland_Ty": "Freshwater Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 91.66, 26.12 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Kutch Wetlands", "State": "Gujarat", "Latitude": 23.73, "Longitude": 68.78, "Wetland_Ty": "Coastal Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 68.78, 23.73 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Khijadiya Wetland", "State": "Gujarat", "Latitude": 22.5, "Longitude": 70.07, "Wetland_Ty": "Coastal Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 70.07, 22.5 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Nandur Madhameshwar", "State": "Maharashtra", "Latitude": 20.02, "Longitude": 74.13, "Wetland_Ty": "Reservoir Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 74.13, 20.02 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Thane Creek", "State": "Maharashtra", "Latitude": 19.03, "Longitude": 72.95, "Wetland_Ty": "Coastal Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 72.95, 19.03 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Kolleru Lake", "State": "Andhra Pradesh", "Latitude": 16.66, "Longitude": 81.25, "Wetland_Ty": "Freshwater Lake", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 81.25, 16.66 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Vembanad-Kol Wetland", "State": "Kerala", "Latitude": 9.6, "Longitude": 76.4, "Wetland_Ty": "Backwater Lagoon", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 76.4, 9.6 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Ashtamudi Wetland", "State": "Kerala", "Latitude": 8.99, "Longitude": 76.61, "Wetland_Ty": "Estuarine Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 76.61, 8.99 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Vedanthangal", "State": "Tamil Nadu", "Latitude": 12.55, "Longitude": 79.86, "Wetland_Ty": "Marsh", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 79.86, 12.55 ] } },
+{ "type": "Feature", "properties": { "Wetland_Na": "Point Calimere", "State": "Tamil Nadu", "Latitude": 10.3, "Longitude": 79.85, "Wetland_Ty": "Coastal Wetland", "Ramsar_Sta": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 79.85, 10.3 ] } }
+]
+}
